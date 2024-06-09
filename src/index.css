@@ -7,3 +7,9 @@
     @apply flex items-center justify-center;
   }
 }
+
+@layer base {
+  body {
+    font-family: "Nunito Sans Variable", sans-serif;
+  }
+}
